@@ -1,0 +1,14 @@
+body{
+    background-color:#DDE5B6;
+}
+h1{color:#A98467;
+    text-align:center;
+}
+
+#container{
+    background-color:#DDE5B6;
+    width: 950px;
+    margin 20px auto;
+    border: 2px solid #A98467;
+    
+}
