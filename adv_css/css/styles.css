@@ -42,7 +42,9 @@ hr {
 }
 header h1 {
     font-size: 50px;
-    color: #BFB854
+    color: #BFB854;
+    text-shadow:#590808;
+
  }
  nav{
     text-align: center;
@@ -123,4 +125,15 @@ header h1 {
     text-align: center;
 
  }
+.img_style{
+    border-radius: 10px;
+    border: 2px solid #BFB854;
+    box-shadow: 2px 2px 5px #465902;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 
+hr{
+    border: 2px solid #465902;
+
+}
