@@ -4,5 +4,6 @@ Projects for web design
 <li><a href="intro2HTML/index.html" target="_blank">Intro to HTML</a></li>
 <li><a href="html5_css/index.html" target="_blank">html5_css</a></li>
 </ul>
+<li><a href="adv_css/info.html" target="_blank">adv_css</a></li>
 
 
